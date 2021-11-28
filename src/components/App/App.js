@@ -1,5 +1,5 @@
 import React from "react";
-import Dashboard from "../dashboard/Dashboard";
+import Dashboard from "../Dashboard/Dashboard";
 
 class App extends React.Component {
   render() {
